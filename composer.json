@@ -1,5 +1,5 @@
 {
-  "name": "boris/php-stellar-strkey",
+  "name": "bdteo/php-stellar-strkey",
   "description": "A php implementation of Stellar Js SDK's \"strkey\"",
   "type": "library",
   "require": {
