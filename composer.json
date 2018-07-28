@@ -1,0 +1,27 @@
+{
+  "name": "boris/php-stellar-strkey",
+  "description": "A php implementation of Stellar Js SDK's \"strkey\"",
+  "type": "library",
+  "require": {
+    "christian-riesen/base32": "^1.1@dev",
+    "composer-plugin-api": "^1.1",
+    "php": ">=7.1.0",
+    "pburggraf/crc": "dev-master"
+  },
+  "require-dev": {
+    "psy/psysh": "dev-master"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Boris Teoharov",
+      "email": "boristeoharov@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Bdteo\\Stellar\\": "src/"
+    }
+  }
+}
