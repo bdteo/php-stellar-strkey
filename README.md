@@ -32,7 +32,7 @@ echo $isValid
     : 'Too bad ! Your address is incorrect !'; 
 ```
 ---
-Used on https://tokenrush.io/
+Used on <a href="https://tokenrush.io/" title="The TokenRush Airdrop Platform" target="_blank">The TokenRush Airdrop Platform</a>
 ---
 I am planning to publish more general purpose crypto tools in the near future ! 
 
