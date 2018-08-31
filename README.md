@@ -31,6 +31,8 @@ echo $isValid
     ? 'Awesome ! The address is valid !'
     : 'Too bad ! Your address is incorrect !'; 
 ```
-
-
+---
+Used on https://tokenrush.io/
+---
+I am planning to publish more general purpose crypto tools in the near future ! 
 
